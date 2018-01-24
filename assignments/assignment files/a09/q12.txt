@@ -1,0 +1,4 @@
+update emp_2
+set proj_num = 14
+where emp_hiredate < to_date('jan-01-1994', 'mon-dd-yyyy')
+and job_code >= 501

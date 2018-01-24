@@ -1,0 +1,3 @@
+update emp_2
+set proj_num = 25
+where job_code > 502

@@ -1,0 +1,27 @@
+update emp_2
+set emp_pct = 3.85
+where emp_num = 103;
+
+update emp_2
+set emp_pct = 10.00
+where emp_num = 104;
+
+update emp_2
+set emp_pct = 5.00
+where emp_num = 105;
+
+update emp_2
+set emp_pct = 6.20
+where emp_num = 106;
+
+update emp_2
+set emp_pct = 5.15
+where emp_num = 107;
+
+update emp_2
+set emp_pct = 10.00
+where emp_num = 108;
+
+update emp_2
+set emp_pct = 2.00
+where emp_num = 109;
